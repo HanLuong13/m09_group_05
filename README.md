@@ -5,7 +5,7 @@ Group Members: Alysia Halverson, Daniel Stein, Han Luong, and Mikhaela Anderson
 **[Implementation: DBSCAN](Implementation_DBSCAN)**
 
 
-For presentation slides on process, model performance, and comparison of models, refer to [Implementation-DBSCAN-Presentation.pdf.](Implementation_DBSCAN/Implementation-DBSCAN-Presentation.pdf).
+For presentation slides on process, model performance, and comparison of models, refer to [Implementation-DBSCAN-Presentation.pdf.](Implementation_DBSCAN/Implementation-DBSCAN-Presentation.pdf)
 
 For code sample of DBSCAN, K-means, and dimensionality-reducing models, accuracy scores, and full documented process, refer to [our Main Notebook.](Implementation_DBSCAN/Main_Notebook.ipynb)
 
