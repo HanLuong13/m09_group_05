@@ -2,10 +2,10 @@
 
 Group Members: Alysia Halverson, Daniel Stein, Han Luong, and Mikhaela Anderson
 
-**Implementing: DBSCAN**
+**Implementation: DBSCAN**
 
 
-**Researching: Random Forest**
+**Research: Random Forest**
 For research and appendix with links of resources, refer to ['Presentation with Appendix.pdf'.](Presentation%20with%20appendix.pdf) 
 
 For code sample, refer to ['basic_random_forest_model.ipynb'.](basic_random_forest_model.ipynb)
